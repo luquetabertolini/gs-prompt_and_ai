@@ -11,7 +11,7 @@ O sistema desenvolvido simula o monitoramento de uma missão espacial experiment
 ![Print 1](assets/print1.jpeg)
 
 Print 2 
-![Print 2](assets/print2.png)
+![Print 2](assets/print2.jpeg)
 
 4. Como executar?
 Abra o Google Colab: https://colab.research.google.com/drive/17HOmBI9eaoF8v_JDV0Jmp4lR0SZJDBRk?usp=sharing
